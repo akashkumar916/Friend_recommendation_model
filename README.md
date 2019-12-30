@@ -24,10 +24,10 @@ Taken data from facebook's recruting challenge on kaggle data contains two colum
 **source_node int64**<br/>
 **destination_node int64**<br/><br/>
 Type: DiGraph<br/>
-**Number of nodes: 1862220<br/>
-**Number of edges: 9437519<br/>
-**Average in degree:   5.0679<br/><br/>
-**Average out degree:   5.0679<br/>
+**Number of nodes: 1862220**<br/>
+**Number of edges: 9437519**<br/>
+**Average in degree: 5.0679**<br/>
+**Average out degree: 5.0679**<br/>
 <br/>
 Performance metric for supervised learning:<br/>
 <ol><li>Both precision and recall is important so F1 score is good choice</li>
